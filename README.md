@@ -9,6 +9,6 @@ Technique used: Elbow Method
 https://en.wikipedia.org/wiki/Elbow_method_(clustering)
   
 ## Heirarchial Clustering
-https://en.wikipedia.org/wiki/Hierarchical_clustering
+https://en.wikipedia.org/wiki/Hierarchical_clustering  
 Technique used: Dendrogram Method  
 https://en.wikipedia.org/wiki/Dendrogram
